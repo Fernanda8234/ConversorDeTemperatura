@@ -22,7 +22,7 @@ public class Temperatura {
         System.out.println("  R E S U L T A D O  ");
         System.out.println(celsius + "°C equivalem a:");
         System.out.println(fahrenheit + "°F (Fahrenheit)");
-        System.out.println(kelvin + "K (Kelvin)");
+        System.out.println(kelvin + "°K (Kelvin)");
         System.out.println("----------------------");
     }
 }
